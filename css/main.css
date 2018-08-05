@@ -1,6 +1,32 @@
-#cat {
+h3, h4, body {
+  font-family: Raleway;
+  text-align: center;
+}
+
+img {
   width: 800px;
+  display: block;
   margin-left: auto;
   margin-right: auto;
-  padding-bottom: 10px;
+  padding: 10px 10px 10px 10px;
+}
+
+li {
+   list-style: none;
+}
+
+.text {
+  text-align: center;
+}
+
+.cat-name {
+
+}
+
+.hide {
+  visibility: hidden;
+}
+
+.show {
+  visibility: visible;
 }
